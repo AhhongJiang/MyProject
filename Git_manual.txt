@@ -11,3 +11,5 @@ Add a comment " xxx ", to the push in Git.
 - git push <'origin'> <master>
 
 
+- git add -u
+updates the tree => git commit -m => git push
