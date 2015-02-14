@@ -1,0 +1,13 @@
+
+- git remote add origin https://github.com/AhhongJiang/MyProject
+Add 'origin' as key to to the html remote repo.
+
+- git add <readme.txt>
+Add readme.txt to the repo.
+
+- git commit -m "Add readme.txt"
+Add a comment " xxx ", to the push in Git.
+
+- git push <'origin'> <master>
+
+
